@@ -1,6 +1,6 @@
-# AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# AI tools Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-<a target="_blank" href="https://twitter.com/intent/tweet?url=https://github.com/ai-collection/ai-collection&text=Checkout this AI Collection of Awesome Generative AI Applications!&hashtags=aicollection"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Share&style=social&url=https%3A%2F%2Ftwitter.com"></a> <a class="twitter-follow-button" href="https://twitter.com/ai_collection_" data-size="large"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ai_collection_?style=social"></a>
+<a target="_blank" href="https://twitter.com/selvamurali1/tweet?url=https://github.com/ai-tools0collection/ai-collection&text=Checkout this AI Tools Collection of Awesome Generative AI Applications!&hashtags=aicollection"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Share&style=social&url=https%3A%2F%2Ftwitter.com"></a> <a class="twitter-follow-button" href="https://twitter.com/selvamurali1" data-size="large"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ai_collection_?style=social"></a>
 
 ---
 
@@ -19,14 +19,14 @@
 <div align="center">
     <h4>Status</h4>
 
-<a href="https://github.com/ai-collection/ai-collection">
+<a href="https://github.com/ai-tools-collection/ai-collection">
     <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=846" />
 </a> &nbsp;&nbsp;
-<a href="https://github.com/ai-collection/ai-collection">
+<a href="https://github.com/ai-tools-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=39" />
 </a>
 
-[![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
+[![Validate Links](https://github.com/ai-tools-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-tools-collection/actions/workflows/lychee-action.yml)
 
 </div>
 
